@@ -1,48 +1,10 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	},
-
-	{
+{
 		"name": "Ukonien Defense Commitee",
 		"leaderName": "Mathilda Radler",
 		"adjective": ["Ukonien"],
-		"startBias": ["Tundra"],
+		"startBias": ["Tundra","Snow"],
 		"preferredVictoryType": "Scientific",
-
+		
 		"startIntroPart1": "Welcome, Kömmandant. We are the Ukonien Defense Commitee, created to ensure peace and prosperity for Ukoni and the rest of Nilia. We are a union of states in the Northeast of Ukoni. A parliamentary republic represented by iyr esteemed prime minister Mathilda Radler.",
 		"startIntroPart2": "Kömmandant, will you bring prosperity for our union and our people? Will you create a spark to enlighten the world again? Will our committee shine through the ages of history like id did many years before? Only you can decide that. Our fate is in your paws, Kömmandant. The Committee will prevail!",
 
@@ -66,10 +28,49 @@
 
 		"outerColor": [232,184,76],
 		"innerColor": [140,101,155],
-		"uniqueName": "Ukonien Herrietage",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+2] Movement <for [Water] units>"],
+		"uniqueName": "Östukonien",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+20]% [Gold] from Trade Routes", "[+4 Gold, +4 Production, +3 Culture, -1 Faith] [in all cities]"],
+		"uniqueName": "Ukonien Kriegsmarinne"
+		"uniques": ["[+4] Movement <for [Water] units>"]
 		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
 			"Marlborough","Leibridge","Waidhaus","Rheinburg"]
 	},
-]
+
+
+{
+		"name": "Provisional Governament of Hyprecia",
+		"leaderName": "Thomas Warren",
+		"adjective": ["Hyprecian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Greetings General. Welcome to Hyprecia, the jewel of the Apaemoran Desert. Hyprecoa has always been an industrialist nation with a keen eye to technology, especially when it involved mikitary use. So, General, feel free to use all of Hyprecian might to crush our enemies.",
+		"startIntroPart2": "So, onwards general, make Hyprecia the greastest state of Nilia, even if that means making us the ONLY state in Nilia... Good luck General and Glory to the Dark Star!",
+
+		"declaringWar": "You and your nation will pay for that.",
+		"attacked": "Oh? Are you sure? Well, let me show you what we're really good at.",
+		"defeated": "You've defeated us... I must congratulate you.",
+		"introduction": "Greetongs. Please do not step closer. I am Thomas Warren, the Gobernor of all of Hyprecia. What can I do for you?",
+
+		"neutralHello": "Oh it's you.",
+		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Of course."],
+		
+		"hateHello": "Speak. Or you'll meet a bullet.",
+		"hateLetsHeartIt": ["Speak.", "Do not waste our time."],
+		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
+		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
+
+		"afterPeace": "You're one of the fews that survived our might... Do not test us again."
+		"tradeRequest": "I think this could be benefitial for both of us...",
+
+		"outerColor": [190,190,190],
+		"innerColor": [6,6,6],
+		"uniqueName": "Hyprecian Might",
+		"uniques": ["Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+45]% Strength", "[+45]% XP gained from combat]"],
+		"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
+			"Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
+	},
+			

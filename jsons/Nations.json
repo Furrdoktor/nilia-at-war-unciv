@@ -34,5 +34,35 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+
+	{
+		"name": "Ukonien Defense Commitee",
+		"leaderName": "Mathilda Radler",
+		"adjective": ["Ukonien"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Welcome, Kömmandant. We are the Ukonien Defense Commitee, created to ensure peace and prosperity for Ukoni and the rest of Nilia. We are a union of states in the Northeast of Ukoni. A parliamentary republic represented by iyr esteemed prime minister Mathilda Radler.",
+		"startIntroPart2": "Kömmandant, will you bring prosperity for our union and our people? Will you create a spark to enlighten the world again? Will our committee shine through the ages of history like id did many years before? Only you can decide that. Our fate is in your paws, Kömmandant. The Committee will prevail!",
+
+		"declaringWar": "You shouldn't have done that.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. May the committee's legacy live on, and may Ukoni finally have peace...",
+		"introduction": "Guten Tag. I am Mathilda Radler, representative of the Ukonien Defense Commitee. What can I do for you?",
+
+		"neutralHello": "Salutations.",
+		"hateHello": "Oh it's you again... Make it short.",
+
+		"tradeRequest": "Guten Tag, we from the UDC think this trade would be beneficial for both of our nations.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Gaianism",
+		"uniqueName": "Ukonien Tech",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
+			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
+			"Marlborough","Leibridge","Waidhaus","Rheinburg"]
+	},
 ]

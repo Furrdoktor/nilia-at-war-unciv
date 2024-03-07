@@ -73,4 +73,37 @@
 		"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
 			"Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
 	},
-			
+{
+		"name": "United Order of Coprein",
+		"leaderName": "Tai Liaozhang",
+		"adjective": ["Coprenian"],
+		"startBias": ["Tundra","Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Officer! Welcome to Coprein! We are a nation in the northeast of Eiboris, our strenght comes from rapid industrialization and fire, we bear the biggest land army in all of Nilia.",
+		"startIntroPart2": "Officer, will you bring the glory of Coprein once again? The people are counting on you. Good luck officer, and long live the revolution!",
+
+		"declaringWar": "Feelbthe Coprenien might!",
+		"attacked": "You dare to stand in our way? Fine! So be it!",
+		"defeated": "It is over. Once again Coprein... No, I wasn't strong enough... Imnsorry my people.",
+		"introduction": "Ni hao, I am the premier Tai from the United Order of Coprein. Welcome! May our nations live in peace.",
+
+		"neutralHello": "Ni hao.",
+		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
+		"neutralNo": ["Sorry but that's not possible.", "We refuse.", "I'm sorry but no."],
+		"neutralYes": ["That's a great idea, we accept.", "Splendid, we accept.", "May our nations get stronger."],
+		
+		"hateHello": "Oh it's you again... Make it short.",
+		"hateLetsHeartIt": ["Speak.", "Do not waste our time.", "You may speak... Quickly."],
+		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
+		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
+
+		"afterPeace": "Finally peace."
+		"tradeRequest": "Ni hao, great leader! We from Coprein have a request for you, do you accept?",
+
+		"outerColor": [235,163,8],
+		"innerColor": [163,42,44],
+		"uniqueName": "Gaian Legacy",
+		"uniques": ["[+3 Gold, +2 Production, +2 Population] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
+		"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
+	},

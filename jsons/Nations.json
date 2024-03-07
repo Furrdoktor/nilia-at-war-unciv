@@ -31,8 +31,6 @@
 		"innerColor": [140,101,155],
 		"uniqueName": "Östukonien",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+20]% [Gold] from Trade Routes", "[+4 Gold, +4 Production, +3 Culture, -1 Faith] [in all cities]"],
-		"uniqueName": "Ukonien Kriegsmarinne"
-		"uniques": ["[+4] Movement <for [Water] units>"]
 		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
 			"Marlborough","Leibridge","Waidhaus","Rheinburg"]
@@ -103,7 +101,7 @@
 		"outerColor": [235,163,8],
 		"innerColor": [163,42,44],
 		"uniqueName": "Gaian Legacy",
-		"uniques": ["[+3 Gold, +2 Production, +2 Population] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
+		"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
 		"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
 },
 ]

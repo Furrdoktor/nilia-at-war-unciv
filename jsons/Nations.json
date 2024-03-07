@@ -66,7 +66,6 @@
 
 		"outerColor": [232,184,76],
 		"innerColor": [140,101,155],
-		"favoredReligion": "Gaianism",
 		"uniqueName": "Ukonien Herrietage",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+2] Movement <for [Water] units>"],
 		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",

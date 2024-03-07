@@ -135,7 +135,7 @@
 	"afterPeace": "Finalmente paz."
 	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
 		
-	"outerColor": [20,20,20],
+	"outerColor": [200,200,200],
 	"innerColor": [52,52,187],
 	"uniqueName": "Ingenuidade Gleirariana",
 	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
@@ -169,10 +169,10 @@
 	"afterPeace": "Finalmente paz."
 	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
 		
-	"outerColor": [200,200,200],
+	"outerColor": [40,60,40],
 	"innerColor": [55,185,25],
 	"uniqueName": "Desertos de Al-Haddinah",
-	"uniques": ["[Starts with [Agriculture]", "[-1 Gold, -2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith, +1 Food] per [1] population [in all cities]"],
+	"uniques": ["[-1 Gold, -2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Al-Haddinah","Jazaga","Banebat","Alsa","Sehlul","Maidura","Al Wararaq","Ruwemah","Hilul","Buqar","Zahrureem","Al Fawa'","Bidaybi","Salireb","Ras Wajbay","Rawdat Wakrat"]
 	},
 ]

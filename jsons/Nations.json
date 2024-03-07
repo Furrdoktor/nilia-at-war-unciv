@@ -52,15 +52,23 @@
 		"introduction": "Guten Tag. I am Mathilda Radler, representative of the Ukonien Defense Commitee. What can I do for you?",
 
 		"neutralHello": "Salutations.",
+		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
+		"neutralNo": ["Sorry but that's not possible.", "We refuse.", "I'm sorry but no."],
+		"neutralYes": ["That's a great idea, we accept.", "Splendid, we accept.", "May our nations get stronger."],
+		
 		"hateHello": "Oh it's you again... Make it short.",
+		"hateLetsHeartIt": ["Speak.", "Do not waste our time.", "You may speak... Quickly."],
+		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
+		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
 
+		"afterPeace": "Peace at last...."
 		"tradeRequest": "Guten Tag, we from the UDC think this trade would be beneficial for both of our nations.",
 
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
+		"outerColor": [232,184,76],
+		"innerColor": [140,101,155],
 		"favoredReligion": "Gaianism",
-		"uniqueName": "Ukonien Tech",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster"],
+		"uniqueName": "Ukonien Herrietage",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+2] Movement <for [Water] units>"],
 		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
 			"Marlborough","Leibridge","Waidhaus","Rheinburg"]

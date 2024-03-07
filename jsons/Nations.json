@@ -1,107 +1,146 @@
+
 [
-      {
-		"name": "Ukonien Defense Commitee",
-		"leaderName": "Mathilda Radler",
-		"adjective": ["Ukonien"],
-		"startBias": ["Tundra","Snow"],
-		"preferredVictoryType": "Scientific",
+    {
+        "name": "Comitê Ukoniano"
+	"leaderName": "Mathilda Radler",
+	"adjective": ["Ukonien"],
+	"startBias": ["Tundra","Snow"],
+	"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Welcome, Kömmandant. We are the Ukonien Defense Commitee, created to ensure peace and prosperity for Ukoni and the rest of Nilia. We are a union of states in the Northeast of Ukoni. A parliamentary republic represented by iyr esteemed prime minister Mathilda Radler.",
-		"startIntroPart2": "Kömmandant, will you bring prosperity for our union and our people? Will you create a spark to enlighten the world again? Will our committee shine through the ages of history like id did many years before? Only you can decide that. Our fate is in your paws, Kömmandant. The Committee will prevail!",
+	"startIntroPart1": "Bem-vindo(a), Kömmandant.  Somos o Comitê de Defesa Ukoniano, criado para garantir a paz e a prosperidade para Ukoni e para o resto de Nilia. Somos uma união de estados do Nordeste de Ukoni. Uma república parlamentar representada pela sua estimada primeira-ministra Mathilda Radler.",
+        "startIntroPart2": "Kömmandant, você trará prosperidade para nosso sindicato e nosso povo? Você criará uma faísca para iluminar o mundo novamente? Nosso comitê brilhará através dos tempos da história como fez muitos anos antes? Só você pode decidir isso. Nosso destino está em suas patas, Kömmandant. O Comitê prevalecerá!",
 
-		"declaringWar": "You shouldn't have done that.",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. May the committee's legacy live on, and may Ukoni finally have peace...",
-		"introduction": "Guten Tag. I am Mathilda Radler, representative of the Ukonien Defense Commitee. What can I do for you?",
+	"declaringWar": "Você não deveria ter feito isso.",
+        "attacked": "Bem, presumo que você saiba o que está fazendo.",
+        "defeated": "Acabou. Que o legado do comitê continue vivo e que Ukoni finalmente tenha paz...",
+        "introduction": "Guten Tag. Sou Mathilda Radler, representante do Comitê de Defesa Ukoniano. O que posso fazer por você?",
+ 
+	"neutralHello": "Saudações.",
+        "neutralLetsHeartIt": ["Sim?", "O que você precisa?", "O que podemos fazer por você?"],
+        "neutralNo": ["Desculpe, mas isso não é possível.", "Nós recusamos.", "Sinto muito, mas não."],
+        "neutralYes": ["Essa é uma ótima ideia, nós aceitamos.", "Esplêndido, nós aceitamos.", "Que nossas nações fiquem mais fortes."],
 
-		"neutralHello": "Salutations.",
-		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
-		"neutralNo": ["Sorry but that's not possible.", "We refuse.", "I'm sorry but no."],
-		"neutralYes": ["That's a great idea, we accept.", "Splendid, we accept.", "May our nations get stronger."],
-		
-		"hateHello": "Oh it's you again... Make it short.",
-		"hateLetsHeartIt": ["Speak.", "Do not waste our time.", "You may speak... Quickly."],
-		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
-		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
+        "hateHello": "Ah, é você de novo... Seja breve.",
+        "hateLetsHeartIt": ["Fale.", "Não perca nosso tempo.", "Você pode falar... Rápido."],
+        "hateNo": ["Claro que não!", "Não. E saia.", "Isso é um absurdo! Claro que não!"],
+        "hateYes": ["...Muito bem...", "Isso é aceitável...", "...Aceitamos."],
 
-		"afterPeace": "Peace at last...."
-		"tradeRequest": "Guten Tag, we from the UDC think this trade would be beneficial for both of our nations.",
+        "afterPeace": "Finalmente paz...."
+        "tradeRequest": "Guten Tag, nós da UDC achamos que esse comércio seria benéfico para ambas as nações.",
 
-		"outerColor": [232,184,76],
-		"innerColor": [140,101,155],
-		"uniqueName": "Östukonien",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster", "[+20]% [Gold] from Trade Routes", "[+4 Gold, +4 Production, +3 Culture, -1 Faith] [in all cities]"],
-		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
+	"outerColor": [232,184,76],
+	"innerColor": [140,101,155],
+	"uniqueName": "Österukonien",
+	"uniques": ["[Great Scientist] is earned [50]% faster", "[+20]% [Gold] from Trade Routes", "[+4 Gold, +4 Production, +3 Culture, -1 Faith] [in all cities]"],
+	"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
 			"Marlborough","Leibridge","Waidhaus","Rheinburg"]
-},
+	},
+
+
 {
-		"name": "Provisional Governament of Hyprecia",
-		"leaderName": "Thomas Warren",
-		"adjective": ["Hyprecian"],
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Domination",
+	"name": "Estado de Hyprecia",
+	"leaderName": "Thomas Warren",
+	"adjective": ["Hyprecian"],
+	"startBias": ["Desert"],
+	"preferredVictoryType": "Domination",
+				"startIntroPart1": "Saudações general.  Bem-vindo(a) a Hyprecia, a joia do Deserto Apaemorano.  Hyprecia sempre foi uma nação industrial com um olhar atento à tecnologia, especialmente quando envolvia no uso bélico. Então, General, sinta-se à vontade para usar todo o poder de Hypreciano para esmagar nossos inimigos.",
+	"startIntroPart2": "Então, general, faça de Hyprecia o maior estado de Nilia, mesmo que isso signifique nos tornar o ÚNICO estado em Nilia... Boa sorte General e Glória à Estrela Negra!",
+
+	"declaringWar": "Você e sua nação pagarão por isso.",
+        "attacked": "Oh? Tem certeza? Bem, deixe-me mostrar no que somos realmente bons.",
+        "defeated": "Você nos derrotou... devo parabenizá-lo.",
+        "introduction": "Saudações. Por favor, não se aproxime. Sou Thomas Warren, o governador de toda Hyprecia. O que posso fazer por você?",
+
+	"neutralHello": "Oh it's you.",
+	"neutralLetsHeartIt": ["Yes?"],
+	"neutralNo": ["No."],
+	"neutralYes": ["Claro."],
 		
-		"startIntroPart1": "Greetings General. Welcome to Hyprecia, the jewel of the Apaemoran Desert. Hyprecoa has always been an industrialist nation with a keen eye to technology, especially when it involved mikitary use. So, General, feel free to use all of Hyprecian might to crush our enemies.",
-		"startIntroPart2": "So, onwards general, make Hyprecia the greastest state of Nilia, even if that means making us the ONLY state in Nilia... Good luck General and Glory to the Dark Star!",
+	"hateHello": "Speak. Or you'll meet a bullet.",
+	"hateLetsHeartIt": ["Speak.", "Do not waste our time."],
+	"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
+	"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
 
-		"declaringWar": "You and your nation will pay for that.",
-		"attacked": "Oh? Are you sure? Well, let me show you what we're really good at.",
-		"defeated": "You've defeated us... I must congratulate you.",
-		"introduction": "Greetongs. Please do not step closer. I am Thomas Warren, the Gobernor of all of Hyprecia. What can I do for you?",
+	"afterPeace": "Você é um dos poucos que sobreviveram ao nosso poder... Não nos teste novamente."
+        "tradeRequest": "Acho que isso pode ser de benéfico para nós dois...",
 
-		"neutralHello": "Oh it's you.",
-		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Of course."],
-		
-		"hateHello": "Speak. Or you'll meet a bullet.",
-		"hateLetsHeartIt": ["Speak.", "Do not waste our time."],
-		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
-		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
-
-		"afterPeace": "You're one of the fews that survived our might... Do not test us again."
-		"tradeRequest": "I think this could be benefitial for both of us...",
-
-		"outerColor": [190,190,190],
-		"innerColor": [6,6,6],
-		"uniqueName": "Hyprecian Might",
-		"uniques": ["Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+45]% Strength", "[+45]% XP gained from combat]"],
-		"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
+	"outerColor": [190,190,190],
+	"innerColor": [6,6,6],
+	"uniqueName": "Punho Hypreciano",
+	"uniques": ["Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+45]% Strength", "[+45]% XP gained from combat"],
+	"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
 			"Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
-},
+	},
+
+
 {
-		"name": "United Order of Coprein",
-		"leaderName": "Tai Liaozhang",
-		"adjective": ["Coprenian"],
-		"startBias": ["Tundra","Coast"],
-		"preferredVictoryType": "Cultural",
+	"name": "Ordem de Coprein",
+	"leaderName": "Tai Liaozhang",
+	"adjective": ["Coprenian"],
+	"startBias": ["Tundra","Coast"],
+	"preferredVictoryType": "Cultural",
+	
+	"startIntroPart1": "Oficial! Bem vindo(a) a Coprein, aqui todos nós trabalhamos em prol do grande estado, para manter suas engrenagens girando e produzindo armas para alimentar nosso poderoso exercito.",
+	"startIntroPart2": "Oficial, você ira trazer a glória para Coprein mais uma vez? O povo esta contando com você. Vida longa a revolução!",
+
+	"declaringWar": "Você está em nosso caminho.",
+	"attacked": "Hm? Você realmente deseja a morte não é?...",
+	"defeated": "É isso acabou... Coprein não foi... Não. EU não fui forte o suficiente... Esperp que meu povo não sofra mais... Desculpe.",
+	"introduction": "Ni hao, eu sou o Premiê Tai da Ordem Unida de Coprein, bem vindo(a) a nosso humilde país. O que você deseja?",
+	
+	"neutralHello": "Ni hao.",
+	"neutralLetsHeartIt": ["Sim?"],
+	"neutralNo": ["Desculpe, mas nos recusamos."],
+	"neutralYes": ["Ótima ideia, nós aceitamos."],
 		
-		"startIntroPart1": "Officer! Welcome to Coprein! We are a nation in the northeast of Eiboris, our strenght comes from rapid industrialization and fire, we bear the biggest land army in all of Nilia.",
-		"startIntroPart2": "Officer, will you bring the glory of Coprein once again? The people are counting on you. Good luck officer, and long live the revolution!",
+	"hateHello": "Ah, é você mais uma vez...",
+	"hateLetsHeartIt": ["Fale."],
+	"hateNo": ["Óbvio que não!"],
+	"hateYes": ["Claro..."],
 
-		"declaringWar": "Feelbthe Coprenien might!",
-		"attacked": "You dare to stand in our way? Fine! So be it!",
-		"defeated": "It is over. Once again Coprein... No, I wasn't strong enough... Imnsorry my people.",
-		"introduction": "Ni hao, I am the premier Tai from the United Order of Coprein. Welcome! May our nations live in peace.",
+	"afterPeace": "Finalmente paz..."
+	"tradeRequest": "Ni hao, grande lider! eu vim com uma ótima proposta para nossos estados! Você aceita?",
 
-		"neutralHello": "Ni hao.",
-		"neutralLetsHeartIt": ["Yes?", "What do you need?", "What can we do for you?"],
-		"neutralNo": ["Sorry but that's not possible.", "We refuse.", "I'm sorry but no."],
-		"neutralYes": ["That's a great idea, we accept.", "Splendid, we accept.", "May our nations get stronger."],
+	"outerColor": [235,163,8],
+	"innerColor": [163,42,44],
+	"uniqueName": "Legado Gaiano",
+	"uniques": ["[+3 Gold, +2 Production, +2 Population] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
+	"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
+	},
+	
+	{
+	"name": "República de Gleiral",
+	"leaderName": "Bellchyor de Caminha",
+	"adjective": ["Gleirarian"],
+	"startBias": ["Jungle","Coast"],
+	"preferredVictoryType": "Cultural",
 		
-		"hateHello": "Oh it's you again... Make it short.",
-		"hateLetsHeartIt": ["Speak.", "Do not waste our time.", "You may speak... Quickly."],
-		"hateNo": ["Of course not!", "No. And get out.", "That's absurd! Of course not!"],
-		"hateYes": ["...Very well...", "That's acceptable...", "...We accept."],
+	"startIntroPart1": "Olá Comandande, bem vindo(a) a República de Gleiral. Nós estamos muito gratos em ter você como o nosso mais novo comandante. Esperamos que você nós traga a gloria de Gleiral mais uma vez.",
+	"startIntroPart2": "Comandante, sei que o trabalho não vai ser fácil, mas temho certeza que você ira conseguir. Toda nação depende de você. Boa sorte comandante e que Alum esteja com você!",
+	"declaringWar": "Você está no nosso caminho, precisamos tira-lo.",
+	"attacked": "Você realmente acha que consegue nós deter? Me poupe.",
+	"defeated": "É o fim... Que Alum me conçeda esses ultimos desejos... Paz e prosperidade para Gleiral...",
+	"introduction": "Olá, sou Bellchyor de Caminha, Presidente da República de Gleiral. É um prazer conhece-lo(a).",
 
-		"afterPeace": "Finally peace."
-		"tradeRequest": "Ni hao, great leader! We from Coprein have a request for you, do you accept?",
+	"neutralHello": "Olá.",
+	"neutralLetsHeartIt": ["Sim?", "O que você precisa?", "O que posso fazer por você?"],
+        "neutralNo": ["Negativo.", "Desculpe mas nãl posso aceitar.", "Não."],
+	"neutralYes": ["Isto é uma ótima ideia, nós aceitamos.", "Claro que sim!", "Certamente."],
+		
+	"hateHello": "Ah é você... Pensei que seria alguém imlortante.",
+	"hateLetsHeartIt": ["Fale.", "Não gaste meu tempo.", "Vamos, fale."],
+	"hateNo": ["Certamente que não.", "Não, você esta louco(a)?", "Não."],
+	"hateYes": ["Muito bem... Vou aceitar.", "Claro...", "Infelizmente terei que aceitar..."],
 
-		"outerColor": [235,163,8],
-		"innerColor": [163,42,44],
-		"uniqueName": "Gaian Legacy",
-		"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
-		"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
-},
+	"afterPeace": "Finalmente paz."
+	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
+		
+	"outerColor": [20,20,20],
+	"innerColor": [52,52,187],
+	"uniqueName": "Ingenuidade Gleirariana",
+	"uniques": ["[+3 Gold, +2 Production, +2 Population] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
+	"cities": ["Restograd","Colina Gelada","Nova Lisboa","Servilha","Barcelina","Castelo","Portão","Coxinhas","Alfredo Vallen","Lyonner","Catarense","Tonico","Eekstel","Colomiers","Parih","Marchalesa","Bourris"]
+	},
+			
 ]

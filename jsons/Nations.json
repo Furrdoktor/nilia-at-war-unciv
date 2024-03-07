@@ -35,9 +35,7 @@
 		"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",
 			"Marlborough","Leibridge","Waidhaus","Rheinburg"]
-	},
-
-
+},
 {
 		"name": "Provisional Governament of Hyprecia",
 		"leaderName": "Thomas Warren",
@@ -72,7 +70,7 @@
 		"uniques": ["Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+45]% Strength", "[+45]% XP gained from combat]"],
 		"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
 			"Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
-	},
+},
 {
 		"name": "United Order of Coprein",
 		"leaderName": "Tai Liaozhang",
@@ -106,4 +104,4 @@
 		"uniqueName": "Gaian Legacy",
 		"uniques": ["[+3 Gold, +2 Production, +2 Population] [in all cities]", "[+2 Gold, +2 Culture, +1 Faith] per [1] population [in all cities]"],
 		"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
-	},
+},

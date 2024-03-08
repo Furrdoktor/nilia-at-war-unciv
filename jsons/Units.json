@@ -14,6 +14,21 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+{
+		"name": "Gaian Infantry", 
+		"unitType": "Gunpowder",
+		"uniqueTo": "Comitê Ukoniano",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 300,
+		"cost": 375,
+		"requiredTech": "Replaceble Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Great Generals II"],
+		"uniques": ["[+25]% Strength"],
+		"attackSound": "shot"	
+	}
 
 {
 		"name": "ARPK-I", 

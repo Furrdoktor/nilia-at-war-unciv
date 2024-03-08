@@ -67,7 +67,10 @@
 	"outerColor": [190,190,190],
 	"innerColor": [6,6,6],
 	"uniqueName": "Punho Hypreciano",
-	"uniques": ["[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+35]% [Science] [in all cities]", "[+30]% [Production] [in all cities]", "[+30]% [Culture] [in all cities]", "[+55]% Strength <for [All] units>", "[+45]% XP gained from combat", "[+70]% [Science] [in capital]", "[+60]% [Production] [in capital]"]
+	"uniques": ["[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Free [Great General] appears <upon discovering [Writing]>", 
+		"[+4 Gold, +8 Production] [in all cities]", "[+35]% [Science] [in all cities]", "[+30]% [Production] [in all cities]", 
+		"[+30]% [Culture] [in all cities]", "[+55]% Strength <for [All] units>", "[+45]% XP gained from combat", "[+70]% [Science] [in capital]", 
+		"[+60]% [Production] [in capital]"]
 	"cities": ["The Citatel","Venetiae","Neo Washington","Star Citatel","Warecaster","Fairlow","Castra Vetera","Therma","Ventmere","Rutupiae","Neo Venetiae","Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
 	},
 
@@ -238,7 +241,7 @@
 	"outerColor": [40,40,40],
 	"innerColor": [230,230,230],
 	"uniqueName": "Monopólio da Vaka Incorporations",
-	"uniques": ["Cannot build [Settler] units", "[+250]% [Gold] [in capital]", "[+100]% [Science] [in capital]", "[+2 Gold, +2 Culture, +1 Food, +10 Science] per [1] population [in all cities]"],
+	"uniques": ["Cannot build [Settler] units", "[+250]% [Gold] [in capital]", "[+100]% [Science] [in capital]", "[+2 Gold, +2 Culture, +1 Food, +10 Science] per [1] population [in all cities], "[+30]% [Production] [in capital]", "[-1000]% [Faith] [in all cities]"],
 	"cities": ["Nova Edolerith", "Vaka City", "Aurora I", "Aurora II", "Aurora III", "Aurora IV", "Arbiter I", "Aperture Laboratories", "Black Mesa"]
 	},
 

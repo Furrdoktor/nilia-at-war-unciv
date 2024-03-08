@@ -45,4 +45,29 @@
 		"uniques": ["[+50]% Strength"],
 		"attackSound": "shot"	
 	}
+{
+		"name": "ARPK-I", 
+		"unitType": "Gunpowder",
+		"uniqueTo": "Comitê Ukoniano",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 300,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"promotions": ["Great Generals II"],
+		"uniques": ["[+50]% Strength"],
+		"attackSound": "shot"	
+	}
+{
+		"name": "ARPK-VI",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 100,
+		"cost": 400,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["[+70]% Strength", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
 ]

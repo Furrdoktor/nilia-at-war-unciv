@@ -14,4 +14,20 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+
+{
+		"name": "ARPK-I", 
+		"unitType": "Gunpowder",
+		"uniqueTo": "Comitê Ukoniano",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 300,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"promotions": ["Great Generals II"],
+		"uniques": ["[+50]% Strength"],
+		"attackSound": "shot"	
+	}
 ]

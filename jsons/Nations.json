@@ -181,7 +181,7 @@
 	"innerColor": [55,185,25],
 	"uniqueName": "Desertos de Al-Haddinah",
 	"uniques": ["[-1 Gold, -2 Production] [in all cities]", "[+2 Gold, +2 Culture, +5 Faith, +1 Food] per [1] population [in all cities]", 
-		"[+20]% [Gold] [in capital]", "[+40]% [Gold] in cities on [Desert]]", "[+40]% [Faith] in cities on [Desert]]", "[+30]% [Production] in cities on [Desert]]"],
+		"[+20]% [Gold] [in capital]", "[+40]% [Gold] in cities on [Desert]", "[+40]% [Faith] in cities on [Desert]", "[+30]% [Production] in cities on [Desert]"],
 	"cities": ["Al-Haddinah","Jazaga","Banebat","Alsa","Sehlul","Maidura","Al Wararaq","Ruwemah","Hilul","Buqar","Zahrureem","Al Fawa'","Bidaybi","Salireb","Ras Wajbay","Rawdat Wakrat"]
 	},
 {

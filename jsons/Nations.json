@@ -68,8 +68,7 @@
 	"innerColor": [6,6,6],
 	"uniqueName": "Punho Hypreciano",
 	"uniques": ["Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+45]% Strength", "[+45]% XP gained from combat"],
-	"cities": ["Venetiae","Neo Washington","Star I","Star II","Star III","Castra Vetera","Therma","Star IV","Star V","Neo Venetiae",
-			"Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
+	"cities": ["The Citatel","Venetiae","Neo Washington","Star Citatel","Warecaster","Fairlow","Castra Vetera","Therma","Ventmere","Rutupiae","Neo Venetiae","Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
 	},
 
 
@@ -239,7 +238,7 @@
 	"outerColor": [40,40,40],
 	"innerColor": [230,230,230],
 	"uniqueName": "Monopólio da Vaka Incorporations",
-	"uniques": ["Cannot build [Settler] units", "[+20 Gold, +10 Production, +10 Science] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
-	"cities": ["Nova Edolerith"]
+	"uniques": ["Cannot build [Settler] units", "[+250]% [Gold] [in capital]", "[+2 Gold, +2 Culture, +1 Food, +10 Science] per [1] population [in all cities]"],
+	"cities": ["Nova Edolerith", "Vaka City", "Aurora I", "Aurora II"]
 	},
 ]

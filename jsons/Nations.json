@@ -137,7 +137,7 @@
 	"outerColor": [200,200,200],
 	"innerColor": [52,52,187],
 	"uniqueName": "Ingenuidade Gleirariana",
-	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, [+30] Faith] per [1] population [in all cities]"],
+	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith] per [1] population [in all cities]"],
 	"cities": ["Restograd","Colina Gelada","Nova Lisboa","Servilha","Barcelina","Castelo","Portão","Coxinhas","Alfredo Vallen","Lyonner","Catarense","Tonico","Eekstel","Colomiers","Parih","Marchalesa","Bourris"]
 	},
 

@@ -27,8 +27,8 @@
         "afterPeace": "Finalmente paz...."
         "tradeRequest": "Guten Tag, nós da UDC achamos que esse comércio seria benéfico para ambas as nações.",
 
-	"outerColor": [232,184,76],
-	"innerColor": [140,101,155],
+	"innerColor": [232,184,76],
+	"outerColor": [140,101,155],
 	"uniqueName": "Österukonien",
 	"uniques": ["[Great Scientist] is earned [50]% faster","[+5 Gold, +5 Food] in cities on [Tundra] tiles", "[+200]% [Gold] from Trade Routes", "Free [Settler] appears", 
 		"[+100]% [Science] [in capital]", "[+100]% [Gold] [in capital]", 
@@ -67,8 +67,8 @@
 	"afterPeace": "Você é um dos poucos que sobreviveram ao nosso poder... Não nos teste novamente."
         "tradeRequest": "Acho que isso pode ser de benéfico para nós dois...",
 
-	"outerColor": [190,190,190],
-	"innerColor": [6,6,6],
+	"innerColor": [190,190,190],
+	"outerColor": [6,6,6],
 	"uniqueName": "Punho Hypreciano",
 	"uniques": ["[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Free [Great General] appears <upon discovering [Writing]>", 
 		"[+4 Gold, +8 Production] [in all cities]", "[+35]% [Science] [in all cities]", "[+30]% [Production] [in all cities]", "[-10]% [Food] [in all cities]", 
@@ -106,8 +106,8 @@
 	"afterPeace": "Finalmente paz..."
 	"tradeRequest": "Ni hao, grande lider! eu vim com uma ótima proposta para nossos estados! Você aceita?",
 
-	"outerColor": [235,163,8],
-	"innerColor": [163,42,44],
+	"innerColor": [235,163,8],
+	"outerColor": [163,42,44],
 	"uniqueName": "Legado Gaiano",
 	"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, -5 Faith] per [1] population [in all cities]",
 		"[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]", "[+20]% [Gold] [in all cities]", "[-1000]% [Faith] [in all cities]", 
@@ -142,8 +142,8 @@
 	"afterPeace": "Finalmente paz."
 	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
 		
-	"outerColor": [200,200,200],
-	"innerColor": [52,52,187],
+	"innerColor": [200,200,200],
+	"outerColor": [52,52,187],
 	"uniqueName": "Ingenuidade Gleirariana",
 	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith] per [1] population [in all cities]",
 		"[+35]% [Gold] [in all cities]", "[+40]% [Faith] [in all cities]", "[-5]% [Production] [in all cities]", "[+90]% [Faith] [in capital]", "[+90]% [Gold] [in capital]"],
@@ -211,8 +211,8 @@
 	"afterPeace": "Finalmente paz."
 	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
 		
-	"outerColor": [40,40,40],
-	"innerColor": [240,160,20],
+	"innerColor": [40,40,40],
+	"outerColor": [240,160,20],
 	"uniqueName": "Neves de Esteria",
 	"uniques": ["[+75]% [Production] [in all cities]", "[+65]% [Gold] [in all cities]", "[+40]% [Culture] [in all cities]", 
 		"[-90]% [Production] [in capital]", "[-40]% [Food] [in capital]", "[-20]% [Gold] [in capital]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
@@ -246,8 +246,8 @@
 	"afterPeace": "Finalmente paz."
 	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
 		
-	"outerColor": [40,40,40],
-	"innerColor": [230,230,230],
+	"innerColor": [40,40,40],
+	"outerColor": [230,230,230],
 	"uniqueName": "Monopólio da Vaka Incorporations",
 	"uniques": ["Cannot build [Settler] units", "[+350]% [Gold] [in capital]", "[+100]% [Science] [in capital]", "[+2 Gold, +2 Culture, +1 Food, +10 Science] per [1] population [in all cities]", "[+30]% [Production] [in capital]", "[-1000]% [Faith] [in all cities]"],
 	"cities": ["Nova Edolerith", "Vaka City", "Aurora I", "Aurora II", "Aurora III", "Aurora IV", "Arbiter I", "Aperture Laboratories", "Black Mesa"]

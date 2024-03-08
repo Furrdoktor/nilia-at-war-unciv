@@ -145,7 +145,8 @@
 	"outerColor": [200,200,200],
 	"innerColor": [52,52,187],
 	"uniqueName": "Ingenuidade Gleirariana",
-	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith] per [1] population [in all cities]"],
+	"uniques": ["[+5 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith] per [1] population [in all cities]",
+		"[+35]% [Gold] [in all cities]", "[+40]% [Faith] [in all cities]", "[-5]% [Production] [in all cities]", "[+90]% [Faith] [in capital]", "[+90]% [Gold] [in capital]""],
 	"cities": ["Restograd","Colina Gelada","Nova Lisboa","Servilha","Barcelina","Castelo","Portão","Coxinhas","Alfredo Vallen","Lyonner","Catarense","Tonico","Eekstel","Colomiers","Parih","Marchalesa","Bourris"]
 	},
 
@@ -212,7 +213,8 @@
 	"outerColor": [40,40,40],
 	"innerColor": [240,160,20],
 	"uniqueName": "Neves de Esteria",
-	"uniques": ["[+55]% [Production] [in all cities]", "[+35]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
+	"uniques": ["[+75]% [Production] [in all cities]", "[+65]% [Gold] [in all cities]", "[+40]% [Culture] [in all cities]", 
+		"[-90]% [Production] [in capital]", "[-40]% [Food] [in capital]", "[-20]% [Gold] [in capital]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Imperial City","Novaya Moskva","Mikhailgrad","Vorodar","Slapetsk","Nyalkovo","Vyaski","Kurtsy","Ivatsenka","Sikna","Dokusiivka","Torchov","Pruszmza","Kryryta","Kodim"]
 	},
 

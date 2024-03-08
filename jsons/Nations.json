@@ -208,4 +208,38 @@
 	"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Imperial City","Novaya Moskva","Mikhailgrad","Vorodar","Slapetsk","Nyalkovo","Vyaski","Kurtsy","Ivatsenka","Sikna","Dokusiivka","Torchov","Pruszmza","Kryryta","Kodim"]
 	},
+
+{
+	"name": "Diretório da Vaka",
+	"leaderName": "Furr Körte",
+	"adjective": ["Vakan"],
+	"startBias": ["Coast","Tundra"],
+	"preferredVictoryType": "Scientific",
+		
+	"startIntroPart1": "Diretor(a), Bem vindo(a) a Vaka Incorporations, eu sou A.U.R.A. sua assistente pessoal programada pela Vaka Inc. Seu trabalho é expandir nossa infuencia para outros lugares  do planeta, mesmo que isso use força... E sinceramente nós sabemos bem como lutar.",
+	"startIntroPart2": "Então Diretor(a), faça seu trabalho e transforme o Diretorio da Vaka em uma superpotencia. Toda Vaka Incorporations está contando com você. Não nos decepcione...",
+	"declaringWar": "Você está no nosso caminho, precisamos tira-lo.",
+	"attacked": "Você realmente acha que consegue nós deter? Me poupe.",
+	"defeated": "Você pote ter nos derrotado, mas a Vaka Incorporations nunca irá acabar.",
+	"introduction": "Olá. Sou A.U.R.A. e eu falo em nome do Diretório da Vaka e Furr Körte, Prazer em conhece-lo(a).",
+
+	"neutralHello": "Olá.",
+	"neutralLetsHeartIt": ["Sim?", "O que você precisa?", "O que posso fazer por você?"],
+	"neutralNo": ["Negativo.", "Desculpe mas nãl posso aceitar.", "Não."],
+	"neutralYes": ["Isto é uma ótima ideia, nós aceitamos.", "Claro que sim!", "Certamente."],
+		
+	"hateHello": "Ah é você... Pensei que seria alguém importante.",
+	"hateLetsHeartIt": ["Fale.", "Não gaste meu tempo.", "Vamos, fale."],
+	"hateNo": ["Certamente que não.", "Não, você esta louco(a)?", "Não."],
+	"hateYes": ["Muito bem... Vou aceitar.", "Claro...", "Infelizmente terei que aceitar..."],
+
+	"afterPeace": "Finalmente paz."
+	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
+		
+	"outerColor": [40,40,40],
+	"innerColor": [230,230,230],
+	"uniqueName": "Neves de Esteria",
+	"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
+	"cities": ["Imperial City","Novaya Moskva","Mikhailgrad","Vorodar","Slapetsk","Nyalkovo","Vyaski","Kurtsy","Ivatsenka","Sikna","Dokusiivka","Torchov","Pruszmza","Kryryta","Kodim"]
+	},
 ]

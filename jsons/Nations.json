@@ -175,4 +175,37 @@
 	"uniques": ["[-1 Gold, -2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Al-Haddinah","Jazaga","Banebat","Alsa","Sehlul","Maidura","Al Wararaq","Ruwemah","Hilul","Buqar","Zahrureem","Al Fawa'","Bidaybi","Salireb","Ras Wajbay","Rawdat Wakrat"]
 	},
+{
+	"name": "Federação de Esteria",
+	"leaderName": "Mikhali Arkadiy II",
+	"adjective": ["Esterian"],
+	"startBias": ["Snow","Coast"],
+	"preferredVictoryType": "Domination",
+		
+	"startIntroPart1": "Suzarein! Olá, como você esta? Bem vindo(a) a Federação Imperial de Esteria, um dos países mais antigos de nosso planeta, glorioso como sempre.",
+	"startIntroPart2": "Suzadein, o povo e seu Imperador esperam que você traga glória a nosso império. E que Helio esteja com você Suzarein, boa sorte.",
+	"declaringWar": "Você está no nosso caminho, precisamos tira-lo.",
+	"attacked": "Você realmente acha que consegue nós deter? Me poupe.",
+	"defeated": "É o fim... Que Helio me conçeda esses ultimos desejos... Paz e prosperidade para Esteria...",
+	"introduction": "Bem vindo(a) a Federação Imperial de Esteria. Sou o imperador Mikhail Arkadiy, espero que sejamos aliados.",
+
+	"neutralHello": "Olá.",
+	"neutralLetsHeartIt": ["Sim?", "O que você precisa?", "O que posso fazer por você?"],
+	"neutralNo": ["Negativo.", "Desculpe mas nãl posso aceitar.", "Não."],
+	"neutralYes": ["Isto é uma ótima ideia, nós aceitamos.", "Claro que sim!", "Certamente."],
+		
+	"hateHello": "Ah é você... Pensei que seria alguém imlortante.",
+	"hateLetsHeartIt": ["Fale.", "Não gaste meu tempo.", "Vamos, fale."],
+	"hateNo": ["Certamente que não.", "Não, você esta louco(a)?", "Não."],
+	"hateYes": ["Muito bem... Vou aceitar.", "Claro...", "Infelizmente terei que aceitar..."],
+
+	"afterPeace": "Finalmente paz."
+	"tradeRequest": "Olá, lider. Venho com uma proposta de comércio entre nossas nações. Você aceita?"
+		
+	"outerColor": [40,60,40],
+	"innerColor": [55,185,25],
+	"uniqueName": "Neves de Esteria",
+	"uniques": ["[-1 Gold, -2 Production] [in all cities]", "[+2 Gold, +2 Culture, +3 Faith, +1 Food] per [1] population [in all cities]"],
+	"cities": ["Al-Haddinah","Jazaga","Banebat","Alsa","Sehlul","Maidura","Al Wararaq","Ruwemah","Hilul","Buqar","Zahrureem","Al Fawa'","Bidaybi","Salireb","Ras Wajbay","Rawdat Wakrat"]
+	},
 ]

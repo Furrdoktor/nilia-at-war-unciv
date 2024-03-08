@@ -67,7 +67,7 @@
 	"outerColor": [190,190,190],
 	"innerColor": [6,6,6],
 	"uniqueName": "Punho Hypreciano",
-	"uniques": ["[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+55]% Strength <for [All] units>", "[+45]% XP gained from combat", "[+300]% [Production], [+300]% [Science] [in capital] <starting from the [Industrial era]>"]
+	"uniques": ["[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Free [Great General] appears <upon discovering [Writing]>", "[+4 Gold, +8 Production] [in all cities]", "[+55]% Strength <for [All] units>", "[+45]% XP gained from combat", "[+300]% [Production], [+300]% [Science] [in capital] <upon discovering [Industrialization]>"]
 	"cities": ["The Citatel","Venetiae","Neo Washington","Star Citatel","Warecaster","Fairlow","Castra Vetera","Therma","Ventmere","Rutupiae","Neo Venetiae","Nemasaus","Nova Roma","Verono","Dark Fort","Starfall Fort","Neo York","Novodumum"]
 	},
 

@@ -30,7 +30,7 @@
 	"outerColor": [232,184,76],
 	"innerColor": [140,101,155],
 	"uniqueName": "Österukonien",
-	"uniques": ["[Great Scientist] is earned [50]% faster","[+5 Gold, +5 Food] in cities on [Tundra] tiles", "[+200]% [Gold] from Trade Routes", 
+	"uniques": ["[Great Scientist] is earned [50]% faster","[+5 Gold, +5 Food] in cities on [Tundra] tiles", "[+200]% [Gold] from Trade Routes", "Free [Settler] appears", 
 		"[+70]% [Science] [in all cities connected to capital]", "[+70]% [Gold] [in all cities connected to capital]", "[+70]% [Production] [in all cities connected to capital]", "[+70]% [Culture] [in all cities connected to capital]", "[+70]% [Faith] [in all cities connected to capital]"],
 	"cities": ["Mitteral","Wittenwig","New London","Österburg","Hellenika","Nova Lisboa","Clifwin","Cadiff","Lenora","Wolfdeck",
 			"Boron","Nape","Driem","Anderburg","Santa Anna","Lisway","Tulasalle","Vinzeu","Saalten","La Vaca",

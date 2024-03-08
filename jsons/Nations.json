@@ -149,19 +149,19 @@
 	"startBias": ["Jungle","Coast"],
 	"preferredVictoryType": "Cultural",
 		
-	"startIntroPart1": "Mushir! Bem vindo a Al-Haddinah! Glória a Alum! Você foi esoclhido para liderar nossa naçãp durante esse tempo, esperamos que você consigua. Que Alum te guie nessa jornada!",
+	"startIntroPart1": "Mushir! Bem vindo a Al-Haddinah! Glória a Alum, irmão! Você foi esoclhido para liderar nossa nação, esperamos que você consiga. Que Alum te guie nessa jornada!",
 	"startIntroPart2": "Mushir, você é a esperança de nosso glorioso califa. Não nos decepcione, que Alum esteja com você irmão.",
 	"declaringWar": "Você está no nosso caminho, precisamos tira-lo.",
 	"attacked": "Você realmente acha que consegue nós deter? Me poupe.",
 	"defeated": "É o fim... Que Alum me conçeda esses ultimos desejos... Paz e prosperidade para Al-Haddinah...",
-	"introduction": "Sou o Califa de Al-Haddinah, meu nome é Tufail el-Samad II. Que Alum esteja com você.",
+	"introduction": "Sou o Califa de Al-Haddinah, meu nome é Tufail el-Samad II. Que Alum esteja com você. E espero que possamos viver em paz. Para o futuro de Nilia.",
 
 	"neutralHello": "Olá.",
 	"neutralLetsHeartIt": ["Sim?", "O que você precisa?", "O que posso fazer por você?"],
 	"neutralNo": ["Negativo.", "Desculpe mas nãl posso aceitar.", "Não."],
 	"neutralYes": ["Isto é uma ótima ideia, nós aceitamos.", "Claro que sim!", "Certamente."],
 		
-	"hateHello": "Ah é você... Pensei que seria alguém imlortante.",
+	"hateHello": "O que você quer? Fale de uma vez.",
 	"hateLetsHeartIt": ["Fale.", "Não gaste meu tempo.", "Vamos, fale."],
 	"hateNo": ["Certamente que não.", "Não, você esta louco(a)?", "Não."],
 	"hateYes": ["Muito bem... Vou aceitar.", "Claro...", "Infelizmente terei que aceitar..."],
@@ -239,7 +239,7 @@
 	"outerColor": [40,40,40],
 	"innerColor": [230,230,230],
 	"uniqueName": "Monopólio da Vaka Incorporations",
-	"uniques": ["[+20 Gold, +10 Production, +10 Science] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
+	"uniques": ["Cannot build [Settler] units", "[+20 Gold, +10 Production, +10 Science] [in all cities]", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Nova Edolerith"]
 	},
 ]

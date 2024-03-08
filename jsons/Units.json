@@ -15,14 +15,14 @@
 		"attackSound": "phasers"
 	}
 {
-		"name": "Gaian Infantry", 
+		"name": "Infantaria Gaiana", 
 		"unitType": "Gunpowder",
 		"uniqueTo": "Comitê Ukoniano",
 		"replaces": "Great War Infantry",
 		"movement": 2,
 		"strength": 300,
 		"cost": 375,
-		"requiredTech": "Replaceble Parts",
+		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"promotions": ["Great Generals II"],

@@ -239,7 +239,7 @@
 	"outerColor": [40,40,40],
 	"innerColor": [230,230,230],
 	"uniqueName": "Neves de Esteria",
-	"uniques": ["[+20 Gold, +10 Production, +10 Science] [in all cities]", "[Settler] Unbuildable", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
+	"uniques": ["[+20 Gold, +10 Production, +10 Science] [in all cities]", "[Settler] is unbuildable", "[+2 Gold, +2 Culture, +1 Food] per [1] population [in all cities]"],
 	"cities": ["Nova Edolerith"]
 	},
 ]

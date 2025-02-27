@@ -1,13 +1,13 @@
 [
     {
-        "name": "Comitê Ukoniano"
+        "name": "Ukonian Defense Commitee"
 	"leaderName": "Mathilda Radler",
 	"adjective": ["Ukonien"],
 	"startBias": ["Tundra","Snow"],
 	"preferredVictoryType": "Scientific",
 		
-	"startIntroPart1": "Bem-vindo(a), Kömmandant. Somos o Comitê de Defesa Ukoniano, criado para garantir a paz e a prosperidade para Ukoni e para o resto de Nilia. Somos uma união de estados do Nordeste de Ukoni. Uma república parlamentar representada pela sua estimada primeira-ministra Mathilda Radler.",
-        "startIntroPart2": "Kömmandant, você trará prosperidade para nosso sindicato e nosso povo? Você criará uma faísca para iluminar o mundo novamente? Nosso comitê brilhará através dos tempos da história como fez muitos anos antes? Só você pode decidir isso. Nosso destino está em suas patas, Kömmandant. O Comitê prevalecerá!",
+	"startIntroPart1": "Chancellor Mathilda Rädler, steadfast guardian of Ukoni's eastern shores. The hopes of an entire continent rest upon your shoulders. Where once the nations of Ukoni stood divided, now they all rise as one. Under your leadership and the purple banner, Ukoni will nevr again be ruled by foreign powers, nor the smaller nations be bullied into submission, as the UDC's armada stands guard for those in need.",
+        "startIntroPart2": "Yours is a nation of merchants, scientists, dreamers and sailors. The world shall know that Ukoni now has a new guardian, and the UDC will earn it's place on history books. Will you lead your people into a new age of prosperity, securing Ukoni's place among civilizations? Sand firm, Chancellor, the seas await your decree, and Ukoni shall not falter!",
 
 	"declaringWar": "Você não deveria ter feito isso.",
         "attacked": "Bem, presumo que você saiba o que está fazendo.",
@@ -111,7 +111,7 @@
 	"uniqueName": "Legado Gaiano",
 	"uniques": ["[+3 Gold, +2 Production] [in all cities]", "[+2 Gold, +2 Culture, -5 Faith] per [1] population [in all cities]",
 		"[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]", "[+20]% [Gold] [in all cities]", "[-1000]% [Faith] [in all cities]", 
-		"[+35]% Strength <for [All] units>",],
+		"[+35]% Strength <for [All] units>"],
 	"cities": ["Panmay","Fuxing","Horoyama","Shintokawa","Xianzou","Biramoto","Nakhorin","Xuhar","Quinshu","Yamanai","Fujitama","Zoagong","Meijing","Yugayama","Jinnan","Heysu","Narihn","Gongmen City"]
 	},
 	
